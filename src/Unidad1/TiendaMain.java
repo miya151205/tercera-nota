@@ -1,3 +1,4 @@
+package Unidad1;
 public class TiendaMain {
     public static void main(String[] args) {
         run();

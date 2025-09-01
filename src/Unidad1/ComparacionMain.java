@@ -1,3 +1,4 @@
+package Unidad1;
 public class ComparacionMain {
      public static void main(String[] args) {
         int numero1 = 10;

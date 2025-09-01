@@ -1,3 +1,4 @@
+package Unidad1;
 public class VariableMain {
      public static void main(String[] args) {
         // Declaración de variables con buenas prácticas de nombrado

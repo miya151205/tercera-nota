@@ -1,5 +1,5 @@
+package Unidad1;
 import java.util.Scanner;
-
 public class MediaMain {
 
     public static void main(String[] args) {
