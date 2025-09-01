@@ -1,10 +1,6 @@
 package Unidad1;
 public class TiendaMain {
     public static void main(String[] args) {
-        run();
-    }
-
-    public static void run() {
         double shirtPrice = 25.0;
         double pantPrice = 30.0;
         double discount = 0.15;
@@ -12,7 +8,10 @@ public class TiendaMain {
         double totalWithSecondShirt = secondShirt + pantPrice;
 
         System.out.println("Precio de la segunda camiseta con 15% de descuento: $" + secondShirt);
-        System.out.println("Total con dos camisetas y un pantalón: $" + totalWithSecondShirt);}
+        System.out.println("Total con dos camisetas y un pantalón: $" + totalWithSecondShirt);
+    }
 }
+    
+
 
 
